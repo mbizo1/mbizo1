@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mbizo1
-- 👀 I’m interested in Software Engineering, more specially specializing in Machine Learning
-- 🌱 I’m currently learning BSc in Computer Science. Languages specializing on are Python and C++
+- 👀 I’m interested in Software Engineering, more especially specializing in Machine Learning
+- 🌱 I’m currently studying BSc in Computer Science. Languages specializing on are Python and C++
 - 💞️ I’m looking to collaborate on any projects involving the learning of Python and C++, so to gain more skills.
 - 📫 How to reach me m.mbatha87@icloud.com
 
